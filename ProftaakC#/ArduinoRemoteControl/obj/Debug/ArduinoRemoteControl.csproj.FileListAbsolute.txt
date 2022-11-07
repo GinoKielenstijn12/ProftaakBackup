@@ -1,0 +1,40 @@
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe.config
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.pdb
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.RemoteControlForm.resources
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.Properties.Resources.resources
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.GenerateResource.Cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.exe
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.pdb
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe.config
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.pdb
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.csprojResolveAssemblyReference.cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.RemoteControlForm.resources
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.Properties.Resources.resources
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.GenerateResource.Cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.exe
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\ArduinoRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.pdb
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\bin\Debug\LivingColorRemoteControl.exe.config
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\bin\Debug\LivingColorRemoteControl.exe
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\bin\Debug\LivingColorRemoteControl.pdb
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csprojAssemblyReference.cache
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.RemoteControlForm.resources
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\LivingColorRemoteControl.Properties.Resources.resources
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.GenerateResource.cache
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.CoreCompileInputs.cache
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\LivingColorRemoteControl.exe
+C:\temp\ArduinoRemoteControl - kopie\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\LivingColorRemoteControl.pdb
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\bin\Debug\LivingColorRemoteControl.exe.config
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\bin\Debug\LivingColorRemoteControl.exe
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\bin\Debug\LivingColorRemoteControl.pdb
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.AssemblyReference.cache
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.RemoteControlForm.resources
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\LivingColorRemoteControl.Properties.Resources.resources
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.GenerateResource.cache
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\ArduinoRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\LivingColorRemoteControl.exe
+C:\Users\gkiel\Desktop\t-sem1-master\Orientatie\Toolbox\Example progams\ArduinoCommunicationForms\ArduinoRemoteControl\ArduinoRemoteControl\obj\Debug\LivingColorRemoteControl.pdb
